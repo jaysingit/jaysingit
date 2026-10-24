@@ -16,7 +16,7 @@ Building reliable, scalable software, from backend services and APIs to cloud so
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
 I am a **Full Stack Developer** with **13+ years of experience** designing, developing, and maintaining enterprise applications. My core expertise is in **C#/.NET**, with hands on full stack experience using **React, TypeScript, JavaScript, SQL Server, Azure, and AWS**.
 
@@ -27,7 +27,7 @@ My background includes travel operations platforms, application modernization, A
 - **Cloud & delivery:** Azure, AWS, Docker, Infrastructure as Code, and CI/CD pipelines
 - **Engineering practices:** Clean Architecture, SOLID, design patterns, automated testing, code reviews, and Agile delivery
 
-## 🛠️ Tech Stack 🛠️
+## Tech Stack
 
 | Area | Technologies |
 | --- | --- |
@@ -39,9 +39,9 @@ My background includes travel operations platforms, application modernization, A
 | **Quality** | xUnit, NUnit, Moq, TDD, Unit & Integration Testing, Refactoring, Code Reviews, Vitest, React Testing Library |
 | **Tools & Other** | Visual Studio, GitHub, GraphQL, Swagger, Postman, Fiddler, IIS, Agile (Scrum / Kanban), Jira, Confluence |
 
-## 🚀 Featured Projects
+## Featured Projects
 
-### 🌦️ [Weatherly](https://github.com/jaysingit/weatherly)
+### [Weatherly](https://github.com/jaysingit/weatherly)
 
 A responsive weather application for exploring current conditions in cities worldwide, built with **React 19, TypeScript, and Vite** and powered by the free **Open-Meteo APIs**.
 
@@ -50,9 +50,9 @@ A responsive weather application for exploring current conditions in cities worl
 - No backend, database, or API key required
 - Automated deployment using **GitHub Actions** to both **GitHub Pages** and **Azure Static Web Apps**
 
-**[🌐 Live on GitHub Pages](https://jaysingit.github.io/weatherly/)** · **[☁️ Live on Azure](https://jolly-bay-053bac810.5.azurestaticapps.net/)** · **[📂 Source code](https://github.com/jaysingit/weatherly)**
+**[Live on GitHub Pages](https://jaysingit.github.io/weatherly/)** &nbsp;&nbsp;&nbsp;&nbsp; **[Live on Azure](https://jolly-bay-053bac810.5.azurestaticapps.net/)** &nbsp;&nbsp;&nbsp;&nbsp; **[Source code](https://github.com/jaysingit/weatherly)**
 
-### ✅ [TaskFlow](https://github.com/jaysingit/Task-Flow)
+### [TaskFlow](https://github.com/jaysingit/Task-Flow)
 
 A streamlined single-page task manager built with **React 19, TypeScript, Tailwind CSS v4, and Vite**.
 
@@ -60,26 +60,26 @@ A streamlined single-page task manager built with **React 19, TypeScript, Tailwi
 - Reusable React components and component tests with **Vitest** and **React Testing Library**
 - Automated GitHub Pages deployment using GitHub Actions
 
-**[🌐 Live demo](https://jaysingit.github.io/Task-Flow/)** · **[📂 Source code](https://github.com/jaysingit/Task-Flow)**
+**[Live demo](https://jaysingit.github.io/Task-Flow/)** &nbsp;&nbsp;&nbsp;&nbsp; **[Source code](https://github.com/jaysingit/Task-Flow)**
 
-### 💳 [Expense Tracker](https://github.com/jaysingit/expense-tracker)
+### [Expense Tracker](https://github.com/jaysingit/expense-tracker)
 
 A full-stack expense tracking application combining a **React/Vite frontend**, a **Node.js/Express API**, and **Microsoft SQL Server** for data persistence.
 
-**[📂 Source code](https://github.com/jaysingit/expense-tracker)**
+**[Source code](https://github.com/jaysingit/expense-tracker)**
 
-## 💼 Experience Snapshot
+## Experience Snapshot
 
 - **Enterprise software development:** 13+ years working on business-critical applications and internal platforms
 - **Application modernization:** Experience with API driven systems, microservices, and cloud solutions
 - **Technical collaboration:** Working with product stakeholders, engineering teams, and cross functional partners
 - **Delivery mindset:** Debugging, performance tuning, test automation, maintainable code, and CI/CD
 
-## 🎓 Certification
+## Certification
 
 **Microsoft Certified: Azure Fundamentals (AZ-900)**
 
-## 🤝 Let's Connect
+## Let's Connect
 
 I'm always happy to connect with people working on interesting software engineering challenges.
 
