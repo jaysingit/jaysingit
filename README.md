@@ -32,7 +32,7 @@ My background includes travel operations platforms, application modernization, A
 | Area | Technologies |
 | --- | --- |
 | **Languages** | C#, TypeScript, JavaScript |
-| **Backend** | .NET / ASP.NET Core, Web API, Entity Framework Core, Dapper, REST APIs |
+| **Backend** | .NET Framework/Core, ASP.NET Core, Web API, Entity Framework Core, REST APIs, Web/Windows Services |
 | **Frontend** | React, TypeScript, JavaScript, Blazor, HTML5, CSS3 |
 | **Data** | SQL Server, RDS, DynamoDB |
 | **Cloud & DevOps** | Azure, AWS, Docker, Terraform, Git, GitHub Actions, CI/CD Pipelines, Monitoring, Logging |
