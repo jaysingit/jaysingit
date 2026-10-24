@@ -75,6 +75,10 @@ A full-stack expense tracking application combining a **React/Vite frontend**, a
 - **Technical collaboration:** Working with product stakeholders, engineering teams, and cross functional partners
 - **Delivery mindset:** Debugging, performance tuning, test automation, maintainable code, and CI/CD
 
+## Education
+
+**Bachelor of Engineering in Computer Science**
+
 ## Certification
 
 **Microsoft Certified: Azure Fundamentals (AZ-900)**
