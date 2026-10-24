@@ -4,7 +4,7 @@
 
 ### Senior Full Stack Software Engineer | C# | .NET | React | Cloud | SQL Server | NoSQL |
 
-Building reliable software, from backend services and APIs to polished user experiences.
+Building reliable, scalable software, from backend services and APIs to cloud solutions, database systems, and polished user experiences.
 
 📍 Zurich, Switzerland &nbsp;•&nbsp; 💻 13+ years in software engineering
 
@@ -31,13 +31,13 @@ My background includes travel operations platforms, application modernization, A
 
 | Area | Technologies |
 | --- | --- |
-| **Languages** | C#, TypeScript, JavaScript, SQL |
+| **Languages** | C#, TypeScript, JavaScript |
 | **Backend** | .NET / ASP.NET Core, Web API, Entity Framework Core, Dapper, REST APIs |
 | **Frontend** | React, TypeScript, JavaScript, Blazor, HTML5, CSS3 |
-| **Data** | SQL Server, PostgreSQL |
-| **Cloud & DevOps** | Azure, AWS, Docker, Terraform, GitHub Actions, Azure DevOps |
-| **Architecture & messaging** | Microservices, Clean Architecture, SOLID, CQRS, RabbitMQ |
-| **Quality** | xUnit, NUnit, Moq, Vitest, React Testing Library |
+| **Data** | SQL Server, RDS, DynamoDB |
+| **Cloud & DevOps** | Azure, AWS, Docker, Terraform, Git, GitHub Actions, CI/CD Pipelines, Monitoring, Logging |
+| **Quality** | xUnit, NUnit, Moq, TDD, Unit & Integration Testing, Refactoring, Code Reviews, Vitest, React Testing Library |
+| **Tools & Other** | Visual Studio, GitHub, GraphQL, Swagger, Postman, Fiddler, IIS, Agile (Scrum / Kanban), Jira, Confluence |
 
 ## 🚀 Featured Projects
 
