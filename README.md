@@ -10,7 +10,6 @@ Building reliable, scalable software, from backend services and APIs to cloud so
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jays/)
 [![GitHub](https://img.shields.io/badge/GitHub-jaysingit-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jaysingit)
-[![Live Project](https://img.shields.io/badge/Weatherly-Live_Demo-167D93?style=for-the-badge&logo=react&logoColor=white)](https://jaysingit.github.io/weatherly/)
 
 </div>
 
@@ -87,7 +86,8 @@ A full-stack expense tracking application combining a **React/Vite frontend**, a
 
 I'm always happy to connect with people working on interesting software engineering challenges.
 
-**[LinkedIn](https://www.linkedin.com/in/jays/)** · **[GitHub](https://github.com/jaysingit)**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jays/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jaysingit)
 
 ---
 
