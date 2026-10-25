@@ -51,6 +51,16 @@ A responsive weather application for exploring current conditions in cities worl
 
 **[Live on GitHub Pages](https://jaysingit.github.io/weatherly/)** &nbsp;&nbsp;&nbsp;&nbsp; **[Live on Azure](https://jolly-bay-053bac810.5.azurestaticapps.net/)** &nbsp;&nbsp;&nbsp;&nbsp; **[Source code](https://github.com/jaysingit/weatherly)**
 
+---
+
+### [Timer Challenge](https://github.com/jaysingit/Timer-Challenge)
+
+An interactive timing game that challenges users to stop a timer as close as possible to a target duration, testing precision and timing accuracy through engaging gameplay.
+
+**[Live](https://jaysingit.github.io/Timer-Challenge/)** &nbsp;&nbsp;&nbsp;&nbsp; **[Source Code](https://github.com/jaysingit/Timer-Challenge)**
+
+---
+
 ### [TaskFlow](https://github.com/jaysingit/Task-Flow)
 
 A streamlined single-page task manager built with **React 19, TypeScript, Tailwind CSS v4, and Vite**.
@@ -59,13 +69,17 @@ A streamlined single-page task manager built with **React 19, TypeScript, Tailwi
 - Reusable React components and component tests with **Vitest** and **React Testing Library**
 - Automated GitHub Pages deployment using GitHub Actions
 
-**[Live demo](https://jaysingit.github.io/Task-Flow/)** &nbsp;&nbsp;&nbsp;&nbsp; **[Source code](https://github.com/jaysingit/Task-Flow)**
+**[Live](https://jaysingit.github.io/Task-Flow/)** &nbsp;&nbsp;&nbsp;&nbsp; **[Source code](https://github.com/jaysingit/Task-Flow)**
+
+---
 
 ### [Expense Tracker](https://github.com/jaysingit/expense-tracker)
 
 A full-stack expense tracking application combining a **React/Vite frontend**, a **Node.js/Express API**, and **Microsoft SQL Server** for data persistence.
 
 **[Source code](https://github.com/jaysingit/expense-tracker)**
+
+---
 
 ## Experience Snapshot
 
