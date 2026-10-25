@@ -2,7 +2,7 @@
 
 # Hi, I'm Jayanth Mavilakkandy
 
-### Senior Full Stack Software Engineer | C# | .NET | React | Cloud | SQL Server | NoSQL |
+### Full Stack Software Engineer | C# | .NET | React | SQL Server | NoSQL | Azure | AWS |
 
 Building reliable, scalable software, from backend services and APIs to cloud solutions, database systems, and polished user experiences.
 
